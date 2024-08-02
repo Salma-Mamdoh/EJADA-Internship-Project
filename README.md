@@ -1,6 +1,6 @@
-# Summer Internship Project
+# Data Engineering and Analytics Summer Internship Project At EJADA
 
-![Company logo](Assets\EJADA.jpeg)
+![Company logo](Assets/EJADA.jpeg)
 
 ## Project Description
 
@@ -18,13 +18,13 @@ The SSIS (SQL Server Integration Services) packages were designed to extract, tr
 
 ### Screenshots
 
-![SSIS Screenshot 1](Assets\Control_Flow.png)
+![SSIS Screenshot 1](Assets/Control_Flow.png)
 
-![SSIS Screenshot 2](Assets\Customer_DIM.png)
+![SSIS Screenshot 2](Assets/Customer_DIM.png)
 
-![SSIS Screenshot 2](Assets\Product_DIM.png)
+![SSIS Screenshot 2](Assets/Product_DIM.png)
 
-![SSIS Screenshot 2](Assets\Sales_Fact.png)
+![SSIS Screenshot 2](Assets/Sales_Fact.png)
 
 ##### For more Details Explore Package file atteched in this Repo
 
@@ -41,11 +41,11 @@ In the Power BI section of the project, I focused on creating interactive and in
 
 ### Screenshots
 
-![Power BI Screenshot 1](Assets\Customer.png)
+![Power BI Screenshot 1](Assets/Customer.png)
 
-![Power BI Screenshot 2](Assets\Customers_In_Specified_City.png)
+![Power BI Screenshot 2](Assets/Customers_In_Specified_City.png)
 
-![Power BI Screenshot 1](Assets\Product.png)
+![Power BI Screenshot 1](Assets/Product.png)
 
 ##### For more Details Explore EJADA Power Bi file atteched in this Repo
 ## Conclusion
